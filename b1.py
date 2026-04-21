@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 from telegram.request import HTTPXRequest
 
-TOKEN = "8560564631:AAGMFztPpAijwap3cDiVby6OKy6bhQelY8g"
+TOKEN = "8560564631:AAFFJzIn26ASF7VZkIqmzWq461VqYH_7NX8"
 CHANNEL_URL = "https://t.me/K1KKK5"  # 🔴 غيره لقناتك
 
 DOWNLOAD_PATH = "downloads"
